@@ -1,0 +1,22 @@
+id: D63F820A2
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-04-18T10:48:53+00:00'
+last_modified: '2022-05-30T03:59:37.477041+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    d328:
+      image_group_id: I1PD95937
+      title: འདུལ་བའི་མདོའི་འགྲེལ་པ།
+      total_pages: 1125
+      order: 92
+      base_file: d328.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
